@@ -25,11 +25,11 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thejas6767&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="TMR67" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TMR67&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="TMR67" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thejas6767&show_icons=true&locale=en&theme=tokyonight" alt="TMR67" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TMR67&show_icons=true&locale=en&theme=tokyonight" alt="TMR67" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thejas6767&theme=tokyonight" alt="TMR67" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TMR67&theme=tokyonight" alt="TMR67" /></p>
 
 
 
