@@ -29,7 +29,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TMR67&show_icons=true&locale=en&theme=tokyonight" alt="TMR67" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.vercel.app/ap/?user=TMR67&theme=tokyonight" alt="TMR67" /></p>
+
 
 
 
